@@ -1,0 +1,3 @@
+# ACEhamiltonians
+ 
+This repository provides a selection of curated Jupyter notebooks that are intended to act an introduction point to the `ACEhamiltonians` package. These introductory notebooks can be found in the `Examples` directory and each cover a particular aspect of using the `ACEhamiltonians` package. In addition to this there is a second directory, namely `Archive`, with a notebook detailing the [`arXiv.2111.13736`](https://github.com/ACEsuit/ACEhamiltonians.jl/tree/arXiv.2111.13736) branch; which represents a snapshot of the code as it was when it was used to generate the results for the [release paper](https://arxiv.org/abs/2111.13736).
